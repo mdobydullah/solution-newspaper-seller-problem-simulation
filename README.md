@@ -1,6 +1,6 @@
 ## Solution of Newspaper Seller's Problem (Simulation of Inventory System)
 
-This link may help you:
+These links may help you:
 1. [System Modeling and Simultion: Newspaper Seller's Problem](https://www.youtube.com/watch?v=OH8MRT8eqRI) - YouTube video
 2. [Simulation of Inventory Systems | Newspaper Seller's Problem [Bangla Tutorial]](https://www.youtube.com/watch?v=OH8MRT8eqRI) - YouTube video
 
