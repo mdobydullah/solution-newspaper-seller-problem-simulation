@@ -6,7 +6,7 @@ This link may help you:
 
 Step 1:
 ---
-![Step 1](https://user-images.githubusercontent.com/13184472/46904218-a92d4280-cf02-11e8-9742-efc2ffa6107c.png)
+![Step 1](https://user-images.githubusercontent.com/13184472/46904331-4472e780-cf04-11e8-909d-51bb3804facb.png)
 
 Step 2:
 ---
